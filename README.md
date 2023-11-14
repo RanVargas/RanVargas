@@ -2,6 +2,8 @@
 
 **`Software Engineer`**
 
+![Developer](./assets/Developer.jpg)
+
 I'm a Software Engineer in the pursue of engineering the greatest software that the best version of me can. All coding projects are built from the ground up, from planning, requirements processing, architecture, and implementation in order to solve real-life problems with software. In the everlasting endevour to achieve a better version.
 
 ### Technologies
