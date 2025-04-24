@@ -40,4 +40,4 @@ Software Engineer, irregularity of the world.
 
 <details>
 <summary><h3>My Software Engineering Journey</h3></summary>
-I started my journey as a Software Engineer back in 2018. Relatively speaking, yesterday. I have to thank Devon Crawford, though he might never sees this, I saw how he described solving coursework for a course they used to call "Angel of Death" at Harvard. Since then I paved my way into Software Engineering. I guess I am a little bit of a masochist, hence my love for software engineering and for souls like games. I like many things that and within software, some of which are Blockchain, Game Dev, etc. I have ADHD and are headstrong like no other man alive.
+I started my journey as a Software Engineer back in 2018. Relatively speaking, yesterday. I have to thank Devon Crawford, though he might never sees this, I saw how he described solving coursework for a course they used to call "Angel of Death" at Harvard. Since then I paved my way into Software Engineering. I love many things that are software, some of which are Blockchain, Game Dev, etc. I have ADHD and are headstrong like no other man alive.
